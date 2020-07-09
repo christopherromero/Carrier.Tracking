@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carrier.Tracking", "Carrier.Tracking\Carrier.Tracking.csproj", "{15D91C36-EDEF-4ECE-92F9-3759B847680A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carrier.Trackin.Tests", "Carrier.Trackin.Tests\Carrier.Trackin.Tests.csproj", "{161FF45D-596B-48C2-97FF-72FF87EEE905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15D91C36-EDEF-4ECE-92F9-3759B847680A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D91C36-EDEF-4ECE-92F9-3759B847680A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D91C36-EDEF-4ECE-92F9-3759B847680A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D91C36-EDEF-4ECE-92F9-3759B847680A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161FF45D-596B-48C2-97FF-72FF87EEE905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161FF45D-596B-48C2-97FF-72FF87EEE905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161FF45D-596B-48C2-97FF-72FF87EEE905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161FF45D-596B-48C2-97FF-72FF87EEE905}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D97804F-C9E2-4A2A-A3F4-09ACC86C9C93}
+	EndGlobalSection
+EndGlobal
